@@ -22,7 +22,7 @@ repository               : "epicwatermelon/epicwatermelon.github.io/
 author:
   # Biographic information
   avatar           : "avatar.png" 
-  name             : "Zhengji LIU" #左上角的标签
+  name             : "Zhengji LIU" #page title
   bio              : "Optometry/Biomedical Engineering"
   location         : "Kowloon, Hong Kong SAR"
   school         : "The Hong Kong Polytechnic University"
