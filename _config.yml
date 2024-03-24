@@ -11,19 +11,19 @@ locale                   : "en-US"
 title                    : "Zhengji LIU"
 title_separator          : "-"
 name                     : &name "Zhengji LIU"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD Student"
+url                      : https://https://epicwatermelon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "epicwatermelon/epicwatermelon.github.io/
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" 
+  avatar           : "avatar.png" 
   name             : "Zhengji LIU" #左上角的标签
-  bio              : "PhD Student, Optometry/Biomedical Engineering"
+  bio              : "Optometry/Biomedical Engineering"
   location         : "Kowloon, Hong Kong SAR"
   school         : "The Hong Kong Polytechnic University"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
