@@ -21,7 +21,7 @@ repository               : "epicwatermelon/epicwatermelon.github.io/
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png" 
+  avatar           : "profile.png" 
   name             : "Zhengji LIU" #page title
   bio              : "Optometry/Biomedical Engineering"
   location         : "Kowloon, Hong Kong SAR"
