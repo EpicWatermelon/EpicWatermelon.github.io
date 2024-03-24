@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhengji LIU"
+title                    : "Zhengji LIU" #page title
 title_separator          : "-"
 name                     : &name "Zhengji LIU"
 description              : &description "PhD Student"
-url                      : https://https://epicwatermelon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://epicwatermelon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "epicwatermelon/epicwatermelon.github.io/
 
@@ -22,7 +22,7 @@ repository               : "epicwatermelon/epicwatermelon.github.io/
 author:
   # Biographic information
   avatar           : "profile.png" 
-  name             : "Zhengji LIU" #page title
+  name             : "Zhengji LIU" 
   bio              : "Optometry/Biomedical Engineering"
   location         : "Kowloon, Hong Kong SAR"
   school         : "The Hong Kong Polytechnic University"
